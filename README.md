@@ -20,6 +20,7 @@ Jynx
 Vaporeon  
 Onix  
 Muk
+Rhydon
 ### Gen2
 Miltank  
 Bonsly  
