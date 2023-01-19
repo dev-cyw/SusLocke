@@ -3,13 +3,13 @@
 This is a way of playing a nuzlocke that includes sus mons  
 this is mostly a meme run but can be done  
 This was inspired by the one and only https://www.twitch.tv/dlow1o  
-HeartGold Is suggested
+HeartGold/SoulSilver Is suggested
 ## Rules
 - Only one Pokemon per route
 - There is a Level Cap for each gym
 - Pokemon Die when fainted and therefore cannot be used
-- a blackout is a wipe and you must reset
-- the game doesnt start until you get balls
+- A blackout is a wipe and you must reset
+- The game doesnt start until you get balls
 - YOU MUST USE THE SUSY MONS ( you can evolve them but if you want to stay true dont)
 ## Changing the Game
 https://pokehacks.dabomstew.com/randomizer/index.php  
