@@ -11,6 +11,14 @@ HeartGold Is suggested
 - a blackout is a wipe and you must reset
 - the game doesnt start until you get balls
 - YOU MUST USE THE SUSY MONS ( you can evolve them but if you want to stay true dont)
+## Changing the Game
+https://pokehacks.dabomstew.com/randomizer/index.php  
+Use Universal Pokemon Randomizer to Change the starter
+Suggested Changes are:
+- Fastest Text
+- Full Hm compatablity
+- Remove impossible evos
+- Change starter to something Sus
 ## Pokemon
 ### Gen1
 Nidoqueen  
