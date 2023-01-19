@@ -1,4 +1,5 @@
 # SusLocke
+!(https://media.discordapp.net/attachments/945089120315793428/1065018114426818600/SusLocke.png)
 This is a way of playing a nuzlocke that includes sus mons  
 this is mostly a meme run but can be done  
 This was inspired by the one and only https://www.twitch.tv/dlow1o  
