@@ -21,7 +21,7 @@ Lickitung
 Jynx  
 Vaporeon  
 Onix  
-Muk
+Muk  
 Rhydon
 ### Gen2
 Miltank  
