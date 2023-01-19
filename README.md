@@ -1,2 +1,2 @@
 # SusLocke
--A pokemon GameMode Nuzlocke
+- A pokemon GameMode Nuzlocke
