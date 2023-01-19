@@ -1,7 +1,7 @@
 # SusLocke
 This is a way of playing a nuzlocke that includes sus mons  
 this is mostly a meme run but can be done  
-This was inspired by the one and only https://www.twitch.tv/dlow1o
+This was inspired by the one and only https://www.twitch.tv/dlow1o  
 HeartGold Is suggested
 ## Rules
 - Only one Pokemon per route
