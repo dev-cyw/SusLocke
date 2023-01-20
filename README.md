@@ -4,14 +4,14 @@ This is a way of playing a nuzlocke that includes sus mons
 this is mostly a meme run but can be done  
 This was inspired by the one and only https://www.twitch.tv/dlow1o  
 HeartGold/SoulSilver Is suggested
-## Rules
+### Rules
 - Only one Pokemon per route
 - There is a Level Cap for each gym
 - Pokemon Die when fainted and therefore cannot be used
 - A blackout is a wipe and you must reset
 - The game doesnt start until you get balls
-- YOU MUST USE THE SUSY MONS ( you can evolve them but if you want to stay true dont)
-## Changing the Game
+- YOU MUST USE THE SUSSY MONS ( you can evolve them but if you want to stay true dont)
+### Changing the Game
 https://pokehacks.dabomstew.com/randomizer/index.php  
 Use Universal Pokemon Randomizer to Change the starter
 Suggested Changes are:
@@ -19,6 +19,13 @@ Suggested Changes are:
 - Full Hm compatablity
 - Remove impossible evos
 - Change starter to something Sus
+### Starting Route
+- Get Ralts from the pokemon professor
+- Make your way to Route 31 and get a bellsprout
+- Go to the Pokemon Centre and get the Slugma Egg
+- Get the old rod and catch Magikarp
+- Beat the first Gym
+## Pokemon
 ### Encounters (HgSs)
 | Pokemon      | Route/Area | Extra Info     |
 | :---        |    :----:   |          ---: |
@@ -37,7 +44,6 @@ Suggested Changes are:
 | Jynx | Ice Path, Seafoam Islands | |
 | Slugma | Violet City | [Egg from Primo](https://www.pokewiki.de/Spezial:Geheimcode-Generator?uselang=en) | 
 | Bonsly | Null | Breed Sudowoodo |
-## Pokemon
 ### Gen1
 Nidoqueen  
 Gloom  
