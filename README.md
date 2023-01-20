@@ -3,7 +3,7 @@
 This is a way of playing a nuzlocke that includes sus mons  
 this is mostly a meme run but can be done  
 This was inspired by the one and only https://www.twitch.tv/dlow1o  
-HeartGold/SoulSilver Is suggested
+HeartGold/SoulSilver Is suggested [Link To Changed Game](https://www.dropbox.com/s/zmggdqmgxseoeuk/SuslockeReal.nds?dl=0)
 ### Rules
 - Only one Pokemon per route
 - There is a Level Cap for each gym
