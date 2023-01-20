@@ -44,45 +44,17 @@ Suggested Changes are:
 | Jynx | Ice Path, Seafoam Islands | |
 | Slugma | Violet City | [Egg from Primo](https://www.pokewiki.de/Spezial:Geheimcode-Generator?uselang=en) | 
 | Bonsly | Null | Breed Sudowoodo |
-### Gen1
-Nidoqueen  
-Gloom  
-Bellsprout  
-Cloyster  
-Lickitung  
-Jynx  
-Vaporeon  
-Onix  
-Muk  
-Rhydon  
-Magikarp  
-### Gen2
-Miltank  
-Bonsly  
-Heracross  
-### Gen3
-Combusken  
-Gardevoir  
-Medicham  
-Gulpin  
-Lileep  
-Slugma  
-### Gen4
-Lopunny  
-Lickilicky  
-### Gen5
-Gothitelle   
-Amoonguss    
-### Gen6
-Delphox  
-Florges  
-### Gen7
-Pyukumuku  
-Tapu lele  
-Tapu fini  
-### Gen8
-Skovet  
-Hatterne  
-Alcremie  
-### Gen9
-Meowscarada  
+## All sus Pokemon
+| **Gen1** | **Gen2** | **Gen3** | **Gen4** | **Gen5** | **Gen6** | **Gen7** | **Gen8** | 
+| :------- | :------: | :------: | :------: | :------: | :------: | :------: | -------: |
+| Nidoqueen | Miltank | Combusken | Lopunny | Amoonguss | Delphox | Pyukumuku | Skovet |
+| Gloom | Bonsly | Gardevoir | LickiLicky | Gothitelle | Florges | Tapu Fini | Hatterene |
+| Bellsprout | Heracross | Medicham | | | | Tapu lele| Alcremie |
+| Cloyster | | Guplin |
+| Lickitung | | Lileep |
+| Jynx | | Slugma |
+| Vaporeon |
+| Onix |
+| Muk |
+| Rhydon |
+| Magikarp |
