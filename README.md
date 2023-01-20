@@ -30,11 +30,11 @@ Suggested Changes are:
 | Miltank | Route 38, 39, 47 | |
 | Shellder | Route 20, 21, 26, 27, 41, 47 | Good Rod |
 | Lickitung | Route 44 | |
+| Oddish | Route 5, 6, 24, 25, Ilex Forest | |
 | Gloom | Route 5, 47, 48 | |
 | Onix | Cliff Cave, Mt. Silver, Rock Tunnel, Union Cave, | |
 | Eevee | Goldenrod City, Game Corner | Gift Pokemon |
 | Jynx | Ice Path, Seafoam Islands | |
-| Oddish | Route 5, 6, 24, 25, Ilex Forest | |
 | Slugma | Violet City | [Egg from Primo](https://www.pokewiki.de/Spezial:Geheimcode-Generator?uselang=en) | 
 | Bonsly | Null | Breed Sudowoodo |
 ## Pokemon
