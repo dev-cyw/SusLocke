@@ -65,7 +65,7 @@ Meowscarada
 ### Encounters (HgSs)
 | Pokemon      | Route/Area | Extra Info     |
 | :---        |    :----:   |          ---: |
-| Ralts      | The Lab       | You change this to Ralts   |
+| Ralts      | The Lab       | You change the starter to Ralts   |
 | Magikarp   | Route 30/ Where water is        | Fishing      |
 | BellSprout | Route 5,6,24,25,31,32,44 | |
 | HeraCross | Route 7, 11, 16, 28, 33, 42, 44, 45, 46, 47 | Headbutting Trees |
