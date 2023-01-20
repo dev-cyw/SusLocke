@@ -10,7 +10,7 @@ HeartGold/SoulSilver Is suggested, [Link ](https://www.dropbox.com/s/zmggdqmgxse
 - Pokemon Die when fainted and therefore cannot be used
 - A blackout is a wipe and you must reset
 - The game doesnt start until you get balls
-- YOU MUST USE THE SUSSY MONS ( you can evolve them but if you want to stay true dont)
+- YOU MUST USE THE SUSSY MONS!
 ### Changing the Game
 https://pokehacks.dabomstew.com/randomizer/index.php  
 Use Universal Pokemon Randomizer to Change the starter
