@@ -30,7 +30,8 @@ Jynx
 Vaporeon  
 Onix  
 Muk  
-Rhydon
+Rhydon  
+Magikarp  
 ### Gen2
 Miltank  
 Bonsly  
@@ -61,3 +62,21 @@ Hatterne
 Alcremie  
 ### Gen9
 Meowscarada  
+### Encounters (HgSs)
+| Pokemon      | Route/Area | Extra Info     |
+| :---        |    :----:   |          ---: |
+| Ralts      | The Lab       | You change this to Ralts   |
+| Magikarp   | Route 30/ Where water is        | Fishing      |
+| BellSprout | Route 5,6,24,25,31,32,44 | |
+| HeraCross | Route 7, 11, 16, 28, 33, 42, 44, 45, 46, 47 | Headbutting Trees |
+| Nidoran ♀ | Route 35,36 | |
+| Miltank | Route 38, 39, 47 | |
+| Shellder | Route 20, 21, 26, 27, 41, 47 | Good Rod |
+| Lickitung | Route 44 | |
+| Gloom | Route 5, 47, 48 | |
+| Onix | Cliff Cave, Mt. Silver, Rock Tunnel, Union Cave, | |
+| Eevee | Goldenrod City, Game Corner | Gift Pokemon |
+| Jynx | Ice Path, Seafoam Islands | |
+| Oddish | Route 5, 6, 24, 25, Ilex Forest | |
+| Slugma | Violet City | [Egg from Primo](https://www.pokewiki.de/Spezial:Geheimcode-Generator?uselang=en) | 
+| Bonsly | Null | Breed Sudowoodo |
