@@ -59,7 +59,7 @@ Suggested Changes are:
 | Eevee | Goldenrod City, Game Corner | Gift Pokemon |
 | Jynx | Ice Path, Seafoam Islands | |
 | Slugma | Violet City | [Egg from Primo](https://www.pokewiki.de/Spezial:Geheimcode-Generator?uselang=en) | 
-| Bonsly | Null | Breed Sudowoodo |
+| Sudowoodo | Route 36 |  |
 | Diglett | Route 48, Vermillion City, Diglett's Cave | |
 | Ditto | Route 35, Route 47, Cerulean Cave Safari Zone| |
 ## All sus Pokemon
