@@ -52,9 +52,9 @@ Suggested Changes are:
 | Nidoqueen | Miltank | Combusken | Lopunny | Amoonguss | Delphox | Pyukumuku | Skovet |
 | Gloom | Bonsly | Gardevoir | LickiLicky | Gothitelle | Florges | Tapu Fini | Hatterene |
 | Bellsprout | Heracross | Medicham | | | | Tapu lele| Alcremie |
-| Cloyster | | Guplin |
-| Lickitung | Lileep |
-| Jynx | | Slugma |
+| Cloyster | Slugma | Guplin |
+| Lickitung ||  Lileep |
+| Jynx |
 | Vaporeon |
 | Onix |
 | Muk |
