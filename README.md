@@ -53,7 +53,7 @@ Suggested Changes are:
 | Gloom | Bonsly | Gardevoir | LickiLicky | Gothitelle | Florges | Tapu Fini | Hatterene |
 | Bellsprout | Heracross | Medicham | | | | Tapu lele| Alcremie |
 | Cloyster | | Guplin |
-| Lickitung | | Lileep |
+| Lickitung | Lileep |
 | Jynx | | Slugma |
 | Vaporeon |
 | Onix |
