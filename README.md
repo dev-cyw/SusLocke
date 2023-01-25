@@ -45,6 +45,7 @@ Suggested Changes are:
 | Slugma | Violet City | [Egg from Primo](https://www.pokewiki.de/Spezial:Geheimcode-Generator?uselang=en) | 
 | Bonsly | Null | Breed Sudowoodo |
 | Diglett | Route 48, Vermillion City, Diglett's Cave | |
+| Ditto | Route 35, Route 47, Cerulean Cave Safari Zone| |
 ## All sus Pokemon
 | **Gen1** | **Gen2** | **Gen3** | **Gen4** | **Gen5** | **Gen6** | **Gen7** | **Gen8** | 
 | :------- | :------: | :------: | :------: | :------: | :------: | :------: | -------: |
@@ -59,4 +60,5 @@ Suggested Changes are:
 | Muk |
 | Rhydon |
 | Magikarp |
-| Diglett | 
+| Diglett |
+| Ditto |
