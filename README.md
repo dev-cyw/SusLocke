@@ -25,6 +25,16 @@ Suggested Changes are:
 - Go to the Pokemon Centre and get the Slugma Egg
 - Get the old rod and catch Magikarp
 - Beat the first Gym
+## Level Caps
+**Falkner**, Flying Lvl 13  
+**Bugsy**, Bug lvl 17  
+**Whitney**, Normal Lvl 19  
+**Morty**, Ghost Lvl 25  
+**Chuck**, Fighting  Lvl 31  
+**Jasmine**, Steel Lvl 35  
+**Pyrce**, Ice Lvl 35 (Its lvl 34 but i kept it the same)  
+**Clair**, Dragon Lvl 41  
+**Champion Lance**, Dragon lvl 50  
 ## Pokemon
 ### Encounters (HgSs)
 | Pokemon      | Route/Area | Extra Info     |
