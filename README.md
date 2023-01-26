@@ -78,3 +78,4 @@ Suggested Changes are:
 | Magikarp |
 | Diglett |
 | Ditto |
+| Cubone |
