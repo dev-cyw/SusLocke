@@ -19,11 +19,12 @@ Suggested Changes are:
 - Full Hm compatablity
 - Remove impossible evos
 - Change starter to something Sus
-- Hold down L + R to activate
-
-  94000130 FCFF0000 B2111880 00000000 E0000B74  
-  000000A0 03E70032 00000000 D2000000 00000000
-
+- Hold down L + R to activate  
+94000130 FCFF0000  
+B2111880 00000000  
+E0000B74 000000A0  
+03E70032 00000000  
+D2000000 00000000  
   Gives x999 rare candies in first slot in the medicine part of the bag.
 ### Starting Route
 - Get Ralts from the pokemon professor
