@@ -30,8 +30,16 @@ D2000000 00000000
 - Get Ralts from the pokemon professor
 - Make your way to Route 31 and get a bellsprout
 - Go to the Pokemon Centre and get the Slugma Egg
-- Get the old rod and catch Magikarp
 - Beat the first Gym
+- Get the old rod and catch Magikarp
+- Go through Union Cave and catch Onix
+- Beat team rocket in Slowpoke Well
+- Obliterate Bugsy
+- Go through ilex forest and get Headbutt
+- On route 33 Headbutt a tree until you get a Heracross
+- Do the Radio quiz
+- MURDER WHITNEY
+
 ## Level Caps
 **Falkner**, Flying Lvl 13  
 **Bugsy**, Bug lvl 17  
