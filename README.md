@@ -25,7 +25,8 @@ B2111880 00000000
 E0000B74 000000A0  
 03E70032 00000000  
 D2000000 00000000  
-  Gives x999 rare candies in first slot in the medicine part of the bag.
+Gives x999 rare candies in first slot in the medicine part of the bag.
+-  I suggest you use PKhex though as this is a known glitch
 ### Starting Route
 - Get Ralts from the pokemon professor
 - Make your way to Route 31 and get a bellsprout
