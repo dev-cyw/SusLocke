@@ -41,15 +41,15 @@ D2000000 00000000
 - MURDER WHITNEY
 
 ## Level Caps
-**Falkner**, Flying Lvl 13  
-**Bugsy**, Bug lvl 17  
-**Whitney**, Normal Lvl 19  
-**Morty**, Ghost Lvl 25  
-**Chuck**, Fighting  Lvl 31  
-**Jasmine**, Steel Lvl 35  
-**Pyrce**, Ice Lvl 35 (Its lvl 34 but i kept it the same)  
-**Clair**, Dragon Lvl 41  
-**Champion Lance**, Dragon lvl 50  
+[**Falkner**](https://bulbapedia.bulbagarden.net/wiki/Falkner#Gym_battle), Flying Lvl 13  
+[**Bugsy**](https://bulbapedia.bulbagarden.net/wiki/Bugsy#Gym_battle), Bug lvl 17  
+[**Whitney**](https://bulbapedia.bulbagarden.net/wiki/Whitney#Gym_battle), Normal Lvl 19  
+[**Morty**](https://bulbapedia.bulbagarden.net/wiki/Morty#Gym_battle), Ghost Lvl 25  
+[**Chuck**](https://bulbapedia.bulbagarden.net/wiki/Chuck#Gym_battle), Fighting  Lvl 31  
+[**Jasmine**](https://bulbapedia.bulbagarden.net/wiki/Jasmine#Gym_battle), Steel Lvl 35  
+[**Pyrce**](https://bulbapedia.bulbagarden.net/wiki/Pryce#Gym_battle), Ice Lvl 35 (Its lvl 34 but i kept it the same)  
+[**Clair**](https://bulbapedia.bulbagarden.net/wiki/Clair#Gym_battle), Dragon Lvl 41  
+[**Champion Lance**](https://bulbapedia.bulbagarden.net/wiki/Lance), Dragon lvl 50  
 ## Pokemon
 ### Encounters (HgSs)
 | Pokemon      | Route/Area | Extra Info     |
