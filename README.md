@@ -89,3 +89,4 @@ Gives x999 rare candies in first slot in the medicine part of the bag.
 | Diglett |
 | Ditto |
 | Cubone |
+| Drowzee |
