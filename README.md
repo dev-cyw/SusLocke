@@ -11,6 +11,7 @@ HeartGold/SoulSilver Is suggested
 - A blackout is a wipe and you must reset
 - The game doesnt start until you get balls
 - YOU MUST USE THE SUSSY MONS!
+- A HM pokemon is suggested it can be any pokemon due to the HM compatablity
 ### Changing the Game
 https://pokehacks.dabomstew.com/randomizer/index.php  
 Use Universal Pokemon Randomizer to Change the starter
