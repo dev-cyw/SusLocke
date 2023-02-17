@@ -73,6 +73,7 @@ Gives x999 rare candies in first slot in the medicine part of the bag.
 | Sudowoodo | Route 36 |  |
 | Diglett | Route 48, Vermillion City, Diglett's Cave | |
 | Ditto | Route 35, Route 47, Cerulean Cave Safari Zone| |
+| Drowzee | Route 11, 34, 35 | |
 ## All sus Pokemon
 | **Gen1** | **Gen2** | **Gen3** | **Gen4** | **Gen5** | **Gen6** | **Gen7** | **Gen8** | 
 | :------- | :------: | :------: | :------: | :------: | :------: | :------: | -------: |
