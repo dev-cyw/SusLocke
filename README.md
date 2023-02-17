@@ -64,7 +64,7 @@ Gives x999 rare candies in first slot in the medicine part of the bag.
 | Miltank | Route 38, 39, 47 | |
 | Shellder | Route 20, 21, 26, 27, 41, 47 | Good Rod |
 | Lickitung | Route 44 | |
-| Oddish | Route 5, 6, 24, 25, Ilex Forest | |
+| Oddish | Route 5, 6, 24, 25, Ilex Forest | It needs to be night |
 | Gloom | Route 5, 47, 48 | |
 | Onix | Cliff Cave, Mt. Silver, Rock Tunnel, Union Cave, | |
 | Eevee | Goldenrod City, Game Corner | Gift Pokemon |
