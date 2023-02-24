@@ -45,11 +45,11 @@ Gives x999 rare candies in first slot in the medicine part of the bag.
 ## Level Caps
 [**Falkner**](https://bulbapedia.bulbagarden.net/wiki/Falkner#Gym_battle), Flying Lvl 13  
 [**Bugsy**](https://bulbapedia.bulbagarden.net/wiki/Bugsy#Gym_battle), Bug lvl 17  
-[**Whitney**](https://bulbapedia.bulbagarden.net/wiki/Whitney#Gym_battle), Normal Lvl 19  
-[**Morty**](https://bulbapedia.bulbagarden.net/wiki/Morty#Gym_battle), Ghost Lvl 25  
+[**Whitney**](https://bulbapedia.bulbagarden.net/wiki/Whitney#Gym_battle), Normal Lvl 20  
+[**Morty**](https://bulbapedia.bulbagarden.net/wiki/Morty#Gym_battle), Ghost Lvl 26  
 [**Chuck**](https://bulbapedia.bulbagarden.net/wiki/Chuck#Gym_battle), Fighting  Lvl 31  
 [**Jasmine**](https://bulbapedia.bulbagarden.net/wiki/Jasmine#Gym_battle), Steel Lvl 35  
-[**Pyrce**](https://bulbapedia.bulbagarden.net/wiki/Pryce#Gym_battle), Ice Lvl 35 (Its lvl 34 but i kept it the same)  
+[**Pyrce**](https://bulbapedia.bulbagarden.net/wiki/Pryce#Gym_battle), Ice Lvl 37  
 [**Clair**](https://bulbapedia.bulbagarden.net/wiki/Clair#Gym_battle), Dragon Lvl 41  
 [**Champion Lance**](https://bulbapedia.bulbagarden.net/wiki/Lance), Dragon lvl 50  
 ## Pokemon
